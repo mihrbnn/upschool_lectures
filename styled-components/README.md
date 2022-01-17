@@ -1,6 +1,6 @@
 ## TOPICS
 
-* COntext-API
+* Context-API
 * Styled-components
 * ThemeProvider
 * Theme changer button
