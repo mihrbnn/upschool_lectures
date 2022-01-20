@@ -4,7 +4,7 @@
 
 * React-query
 * Redux
-* React-reducx
+* React-redux
 * React-router-dom
 * Redux Persist
 * axios
